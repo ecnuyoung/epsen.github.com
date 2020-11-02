@@ -2,9 +2,12 @@ Note: This page aims to make some comments and answers to the questions asked in
 
 ## 1. Introduction to empirical processes
 
-- Slides
-
-- [Comments]{"subgaussians.pdf"}
+- <a href="subgaussians.pdf">Please click here to see the slides in this section.</a>
 
 
-<a href="subgaussians.pdf">英文版</a>
+- Below are some comments and anwsers to the questions in this section.
+
+1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
+
+2. <a href="subgaussians.pdf"> HW 1 on page 18 </a>
+
