@@ -1,6 +1,6 @@
 # <center><font face="黑体">A short course on empirical processes</font></center>
 
-<p align = "justify", style="text-indent:2em">Most of contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen. Below, we shall make a section by section summary, and give some answers to the potential questions in this book.</p>
+<p align = "justify">Most of contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen. Below, we shall make a section by section summary, and give some answers to the potential questions in this book.</p>
 
 
 ## 1. Introduction to empirical processes
