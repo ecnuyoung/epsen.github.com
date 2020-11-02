@@ -14,30 +14,13 @@
 
     2. <a href="subgaussians.pdf"> HW 1 on page 18 </a>
 
-
+<!--
 ## 2. Size/Complexity of a function class
-
-
-
-
 ## 3. Glivenko-Cantelli (GC) classes of functions
-
-
-
 ## 4. Chaining and uniform entropy
-
-
-
-
-
 ## 5. Rates of convergence of M-estimators
-
-
-
-
 ## 6. Rates of convergence of infinite dimensional parameters
-
-
+-->
 
 
 ## Refenrences
