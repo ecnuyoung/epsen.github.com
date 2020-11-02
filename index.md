@@ -27,7 +27,7 @@ Most of all contants are from the book *A Gentle Introduction to Empirical Proce
 2. <a href="subgaussians.pdf"> HW 1 on page 18 </a>
 
 
-## 1. Introduction to empirical processes
+## 3. Glivenko-Cantelli (GC) classes of functions
 
 - <a href="subgaussians.pdf">Click here to see the summary.</a>
 
@@ -39,24 +39,37 @@ Most of all contants are from the book *A Gentle Introduction to Empirical Proce
 2. <a href="subgaussians.pdf"> HW 1 on page 18 </a>
 
 
-## 1. Introduction to empirical processes
-
-- <a href="subgaussians.pdf">Click here to see the slides.</a>
+## 4. Chaining and uniform entropy
 
 
-- Below gives some answers to the questions in this section.
+- <a href="subgaussians.pdf">Click here to see the summary.</a>
+
+
+- Answers to the questions in this section.
 
 1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
 
 2. <a href="subgaussians.pdf"> HW 1 on page 18 </a>
 
 
-## 1. Introduction to empirical processes
+## 5. Rates of convergence of M-estimators
 
-- <a href="subgaussians.pdf">Click here to see the slides.</a>
+- <a href="subgaussians.pdf">Click here to see the summary.</a>
 
 
-- Below gives some answers to the questions in this section.
+- Answers to the questions in this section.
+
+1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
+
+2. <a href="subgaussians.pdf"> HW 1 on page 18 </a>
+
+
+## 6. Rates of convergence of infinite dimensional parameters
+
+- <a href="subgaussians.pdf">Click here to see the summary.</a>
+
+
+- Answers to the questions in this section.
 
 1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
 
