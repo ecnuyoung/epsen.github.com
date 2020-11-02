@@ -1,4 +1,4 @@
-# A short course on empirical processes
+# <center><font face="黑体">A short course on empirical processes</font></center>
 
 Most of all contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen. 
 
