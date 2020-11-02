@@ -1,4 +1,6 @@
-# Most of all contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen.
+# A short course on empirical processes
+
+Most of all contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen. 
 
 
 ## 1. Introduction to empirical processes
@@ -64,5 +66,5 @@
 ## Refenrences
 
 B. Sen (2018). <a href="subgaussians.pdf"> 
-*A Gentle Introduction to Empirical Process Theory and Applications*
+*A Gentle Introduction to Empirical Process Theory and Applications*.
 </a>
