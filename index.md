@@ -25,6 +25,10 @@
 
 ## Refenrences
 
-B. Sen (2018). <a href="sen-empirical-process.pdf"> 
-*A Gentle Introduction to Empirical Process Theory and Applications*.
+Sen, B. (2018). <a href="sen-empirical-process.pdf"> 
+*A gentle introduction to empirical process theory and applications*.
+</a>
+
+van de Geer, S. (2009). <a href="Empirical Processes in M Estimation.pdf"> 
+*Empirical processes in M-estimation*. Cambridge University Press: New York.
 </a>
