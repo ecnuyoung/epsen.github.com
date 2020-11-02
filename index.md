@@ -1,14 +1,14 @@
 # <center><font face="黑体">A short course on empirical processes</font></center>
 
-Most of all contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen. 
+Most of all contants are from the book *A Gentle Introduction to Empirical Process Theory and Applications* written by Bodhisattva Sen. Below, we shall make a section by section summary, and give some answers to the potential questions in this book.
 
 
 ## 1. Introduction to empirical processes
 
-- <a href="subgaussians.pdf">Click here to see the slides.</a>
+- <a href="subgaussians.pdf">Click here to see the summary.</a>
 
 
-- Below gives some answers to the questions in this section.
+- Answers to the questions in this section.
 
 1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
 
@@ -17,10 +17,10 @@ Most of all contants are from the book *A Gentle Introduction to Empirical Proce
 
 ## 2. Size/Complexity of a function class
 
-- <a href="subgaussians.pdf">Click here to see the slides.</a>
+- <a href="subgaussians.pdf">Click here to see the summary.</a>
 
 
-- Below gives some answers to the questions in this section.
+- Answers to the questions in this section.
 
 1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
 
@@ -29,10 +29,10 @@ Most of all contants are from the book *A Gentle Introduction to Empirical Proce
 
 ## 1. Introduction to empirical processes
 
-- <a href="subgaussians.pdf">Click here to see the slides.</a>
+- <a href="subgaussians.pdf">Click here to see the summary.</a>
 
 
-- Below gives some answers to the questions in this section.
+- Answers to the questions in this section.
 
 1. <a href="subgaussians.pdf"> HW 1 on page 17 </a>
 
